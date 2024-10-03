@@ -4,4 +4,4 @@ Hey my name is *Yana Tkachenko*
 _**I'm junior web designer**_
 
 Here is my Behance:
-![I have a few student works there] (https://www.behance.net/gallery/130989545/Jewelry-online-store](https://www.behance.net/gallery/130989545/Jewelry-online-store/modules/741907923)](https://www.behance.net/gallery/130989545/Jewelry-online-store)
+![I have a few student works there] (https://www.behance.net/gallery/130989545/Jewelry-online-store/modules/741907923)

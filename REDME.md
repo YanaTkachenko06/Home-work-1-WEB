@@ -1,11 +1,7 @@
 # My first project on GitHub
-A simple description of what my project does.
-## Introduction
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository.git
-   npm install
-npm start
+Hey my name is *Yana Tkachenko*
 
-### Features
-easy to use
+_**I'm junior web designer**_
+
+Here is my Behance:
+![I have a few student works there](https://www.behance.net/gallery/130989545/Jewelry-online-store)
